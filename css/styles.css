@@ -1,0 +1,8 @@
+p{
+  display: none;
+}
+
+.col-md-2{
+  border: solid 2px black;
+  margin: 20px;
+}

@@ -1,0 +1,26 @@
+$(document).ready(function(){
+  $("#j").click(function(){
+    $("#js").toggle();
+  });
+  $("#op").click(function(){
+    $("#ops").toggle();
+  });
+  $("#var").click(function(){
+    $("#vars").toggle();
+  });
+  $("#name").click(function(){
+    $("#names").toggle();
+  });
+  $("#fun").click(function(){
+    $("#funs").toggle();
+  });
+  $("#met").click(function(){
+    $("#mets").toggle();
+  });
+  $("#arg").click(function(){
+    $("#args").toggle();
+  });
+  $("#par").click(function(){
+    $("#pars").toggle();
+  });
+});
